@@ -2,9 +2,9 @@
 This application is based on IBM's IDT (IBM Developer Tools) for project scaffolding. (https://www.npmjs.com/package/generator-nodeserver) 
 
 
-**Pre-requisites**
+***Pre-requisites***
 
-Install Yeoman
+**Install Yeoman**
 
 `npm install -g yo`
 
