@@ -47,6 +47,6 @@ npm run idt:install
 npm run idt:build
 # Run the app locally through docker:
 npm run idt:run
-# Deploy your app to IBM Cloud:
+# Deploy your app to Kubernetes Cluster:
 npm run idt:deploy
 ```
